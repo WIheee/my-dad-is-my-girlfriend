@@ -16,4 +16,4 @@
 不要忘记CC-BY-SA-4.0协议
 
 # 关于阅读软件
-阅读软件我推荐使用这个[Markor](github.com/gsantner/markor)
+阅读软件我推荐使用这个[Markor](https://github.com/gsantner/markor)
